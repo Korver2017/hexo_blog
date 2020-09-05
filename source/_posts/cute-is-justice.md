@@ -7,6 +7,8 @@ categories:
 
 # 可愛即是正義（x
 
+<br />
+
 <div align=center> 
   <img src="../images/cute_is_justice_1.jpg" width="50%" />
 </div>
