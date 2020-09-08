@@ -14,5 +14,5 @@ categories:
 之前的紅色跟暗色變成粉色惹 Q_Q
 
 <div align=center> 
-  <img src="/images/toggl_track.png" width="30%" />
+  <img src="/images/toggl_track.png" width="60%" />
 </div>

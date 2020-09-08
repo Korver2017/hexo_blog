@@ -11,7 +11,9 @@ categories:
 
   <br />
 
-  <img src="/images/clean_code.jpg" height="500px" />
+  <div style="display: block;">
+    <img style="width: 60%;" src="/images/clean_code.jpg" />
+  </div>
 
   <br />
 
