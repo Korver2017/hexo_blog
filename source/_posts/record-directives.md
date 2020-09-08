@@ -1,7 +1,8 @@
 ---
 title: 隨手記一點常用 Hexo 指令
 date: 2020-09-05 04:38:48
-tags:
+categories: 
+- 我就吠
 ---
 
 # 隨手記一點常用 Hexo 指令
