@@ -14,6 +14,13 @@ categories:
 </div>
 
 <div style="display: flex;">
-  <img style="margin-right: 0.5rem" align=left src="/images/cute_is_justice_2.jpg" width="50%" />
-  <img style="margin-left: 0.5rem" src="/images/cute_is_justice_3.jpg" width="50%" />
+
+  <div style="display: block;">
+    <img style="width: 97%;" align=left src="/images/cute_is_justice_2.jpg" />
+  </div>
+
+  <div style="display: block;">
+    <img style="width: 97%;" src="/images/cute_is_justice_3.jpg" />
+  </div>
+
 </div>
