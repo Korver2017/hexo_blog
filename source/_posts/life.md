@@ -2,7 +2,7 @@
 title: Breakfast
 date: 2020-08-23 08:06:50
 categories: 
-- 生活
+- life
 ---
 
 # 早餐
