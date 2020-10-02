@@ -9,8 +9,6 @@ categories:
 是粉絲見面會！遠道而來的 巴哥黑豬排咖哩包ᶘ ᵒᴥᵒ卡滋丼與卡蕾胖
 很開心認識你們與兩個小寶貝 😊
 
-
-
 <div align=center> 
   <img src="/images/fans_meeting_1.jpg" width="100%" />
 </div>
@@ -46,8 +44,6 @@ categories:
 <div align=center> 
   <img src="/images/fans_meeting_6.jpg" width="100%" />
 </div>
-
-
 
 <div style="display: flex;">
 
