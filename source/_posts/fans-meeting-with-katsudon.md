@@ -1,12 +1,14 @@
 ---
-title: fans-meeting-with-katsudon
+title: 卡滋丼 & 卡蕾胖粉絲見面會 😊
 date: 2020-10-02 17:27:39
 categories: 
 - life
 ---
 
 難得跟蕊蕊踏青（？
+
 是粉絲見面會！遠道而來的 巴哥黑豬排咖哩包ᶘ ᵒᴥᵒ卡滋丼與卡蕾胖
+
 很開心認識你們與兩個小寶貝 😊
 
 <div align=center> 
